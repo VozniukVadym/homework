@@ -4,4 +4,4 @@ def mane_finction():
     z=y+10
 
 def test_funktion():
-    
+    print ('Hello World')
