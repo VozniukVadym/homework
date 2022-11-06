@@ -5,3 +5,4 @@ def mane_finction():
 
 def test_funktion():
     print ('Hello World')
+    print ('Vozniuk Vadym')
